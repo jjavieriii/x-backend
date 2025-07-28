@@ -1,0 +1,2 @@
+npm install express mongoose dotenv cors
+npm install @clerk/express @arcjet/node @arcjet/inspect
